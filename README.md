@@ -1,6 +1,6 @@
-# calculadora_app
+# Aplicativo de Calculadora
 
-A new Flutter project.
+projeto feito com flutter.
 
 ## Getting Started
 
